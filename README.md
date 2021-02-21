@@ -19,5 +19,3 @@
 ![Metrics](https://metrics.lecoq.io/CyberTKR?template=classic&config.timezone=Europe%2FIstanbul&config.animated=true) | ![spotify-github-profile](/img/example.svg)
 
 <img src="https://opencollective.com/armeria/contributors.svg?width=890&button=false" alt="Contributors">
-
-![Metrics](https://metrics.lecoq.io/CyberTKR?template=terminal&config.timezone=Europe%2FBerlin)
